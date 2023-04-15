@@ -13,22 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Hernandez-Garcia
-tagline: Machine learning and computational neuroscience
+title: Philip Kaltenborn
+tagline: Leichtgewichts-Ruderer (U23)
 email: alex.hernandez-garcia@mila.quebec
-twitter_username: alexhdezgcia
-github_username:  alexhernandezgarcia
+twitter_username: None
+github_username:  philipkaltenborn
 twitter:
-  - username: alexhdezgcia
-description: Alex Hernandez-Garcia is a postdoc at Mila (Montreal), working with Prof. Yoshua Bengio. He is interested in the fundamental aspects of learning, in both brains and machines, as well as in applications of machine learning for social good, like fighting climate change. 
-author: Alex Hernandez-Garcia
-url: https://alexhernandezgarcia.github.io
-logo: /assets/images/logo1.png
+  - username: None
+description: Philip Kaltenborn ist ein Leichtgewichts-Ruderer und Student der Luft- und Raumfahrttechnik (Stuttgart).
+author: Philip Kaltenborn
+url: https://philipkaltenborn.github.io
+logo: /assets/images/rowing_logo.png
 
 # Reading Files
 include:
   - _pages
-  - _posters
 
 # Collections
 collections:
@@ -57,5 +56,5 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag 
+  - jekyll-seo-tag
   - jekyll-redirect-from
