@@ -14,6 +14,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update github-pages`.
 # gem "jekyll", "~> 3.8.5"
 gem "github-pages", group: :jekyll_plugins
+gem "webrick"
 
 # Plugins
 group :jekyll_plugins do
